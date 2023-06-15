@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @_conveyor 
+- 👋 Hi, I’m Mohan Pal Singh Ubhi
 - 👀 I’m interested in programming
-- 🌱 I’m currently C#, Java & .Net
-- 💞️ I’m looking to collaborate on any project in unity game engine!
-- 📫 How to reach me via my discord link via _conveyor#9119.
+- 🌱 I’m currently C#
+- 💞️ I’m looking to collaborate on any project in Unity game engine!
+- 📫 How to reach me via my discord link via ConveyorX {/dev}#9119.
